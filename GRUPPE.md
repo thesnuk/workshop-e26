@@ -2,7 +2,8 @@
 
 **Gruppenummer:*2*
 
-**Arbejdstitel:**
+**Arbejdstitel:*diersitet program*
+
 
 **Gruppens fork:** https://github.com/BRUGERNAVN/diversitetsbarometer
 
