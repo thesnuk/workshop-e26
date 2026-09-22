@@ -4,7 +4,7 @@
 
 **Arbejdstitel:*Diversitetsbarometer*
 
-**Gruppens fork:** https://github.com/BRUGERNAVN/diversitetsbarometer
+**Gruppens fork:** https://github.com/thesnuk/workshop-e26.git 
 
 **Hjemmesiden:** <!-- udfyldes, når I publicerer (trin 8) -->
 
