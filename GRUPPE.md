@@ -15,7 +15,7 @@ Maria
 <!-- Skriv GitHub-brugernavn — ikke fulde navn, hvis I hellere vil være fri. -->
 
 | GitHub-brugernavn | Studieretning |
-|---|---|
+|Carina|Innovation og Digitalisering|
 
 ## Aftaler
 
@@ -25,4 +25,3 @@ Maria
 - Vi committer, hver gang noget virker — ikke først når dagen er slut
 - Vi pusher, før vi går
 - To sidder aldrig i den samme fil på samme tid. Vi aftaler i Issues, hvem der tager hvad
-
