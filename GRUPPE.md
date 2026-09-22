@@ -10,6 +10,7 @@
 
 ## Medlemmer
 Carina
+Maria
 <!-- Skriv jer ind én ad gangen: pull, tilføj jeres linje, commit, push. -->
 <!-- Skriv GitHub-brugernavn — ikke fulde navn, hvis I hellere vil være fri. -->
 
